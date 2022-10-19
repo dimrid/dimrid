@@ -2,6 +2,17 @@
 
 ## Hi! I'm a beginner QA Engineer.
 
-Languages and Tools
+## My CV
 
-Follow Me
+### Languages and Tools 
+![Jira](https://img.shields.io/badge/-JIRA-090909?style=plastic&logo=jira&logoColor=136be1)
+![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=plastic&logo=Postman&logoColor=F76935)
+![Swagger](https://img.shields.io/badge/-SWAGGER-090909?style=plastic&logo=Swagger&logoColor=7ede2b)
+![Github](https://img.shields.io/badge/-GITHUB-090909?style=plastic&logo=Github&logoColor=8cc4d7)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=MySQL&logoColor=00618a)
+![DevTools](https://img.shields.io/badge/-DEVTOOLS-090909?style=plastic&logo=googlechrome&logoColor=2674f2)
+![Java](https://img.shields.io/badge/-JAVA-090909?style=plastic&logo=Java&logoColor=2674f2)
+
+### Testing Documentation
+
+### Follow Me
