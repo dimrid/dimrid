@@ -1,10 +1,10 @@
 ![Header](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.png)
 
-## Hi! I'm a beginner QA Engineer.
+:arrow_forward: ## Hi! I'm a beginner QA Engineer.
 
-## My CV
-:white_check_mark:
-### Languages and Tools 
+:arrow_forward: ## My CV
+
+:arrow_forward: ### Languages and Tools 
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=plastic&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=plastic&logo=Postman&logoColor=F76935)
 ![Swagger](https://img.shields.io/badge/-SWAGGER-090909?style=plastic&logo=Swagger&logoColor=7ede2b)
@@ -15,5 +15,5 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-090909?style=plastic&logo=ubuntu&logoColor=white)
 
 ### Testing Documentation
-
-### Follow Me
+:arrow_forward:
+### :arrow_forward: Follow Me
