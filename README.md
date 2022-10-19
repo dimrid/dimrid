@@ -3,7 +3,7 @@
 ## Hi! I'm a beginner QA Engineer.
 
 ## My CV
-
+:white_check_mark:
 ### Languages and Tools 
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=plastic&logo=jira&logoColor=136be1)
 ![Postman](https://img.shields.io/badge/-POSTMAN-090909?style=plastic&logo=Postman&logoColor=F76935)
@@ -11,7 +11,8 @@
 ![Github](https://img.shields.io/badge/-GITHUB-090909?style=plastic&logo=Github&logoColor=8cc4d7)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=MySQL&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/-DEVTOOLS-090909?style=plastic&logo=googlechrome&logoColor=2674f2)
-![Java](https://img.shields.io/badge/-JAVA-090909?style=plastic&logo=Java&logoColor=2674f2)
+![C#](https://img.shields.io/badge/-C-090909?style=plastic&logo=logoColor=2674f2)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-090909?style=plastic&logo=ubuntu&logoColor=white)
 
 ### Testing Documentation
 
