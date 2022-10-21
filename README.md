@@ -1,4 +1,4 @@
-![Header](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.png)
+![Header](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.v0.1.png)
 
 ## Hi! I'm a beginner QA Engineer.
 
@@ -19,6 +19,7 @@
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-090909?style=plastic&logo=adobe%20illustrator&logoColor=#FF9A00)
 ![Unity](https://img.shields.io/badge/Unity-090909?style=plastic&logo=unity&logoColor=FFFFFF)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-090909?style=plastic&logo=ubuntu&logoColor=E95420)
+
 
 ### Testing Documentation
 
