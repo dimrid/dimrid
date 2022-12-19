@@ -1,6 +1,6 @@
-![Header](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.v0.1.png)
+![Header](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.v2.png)
 
-## Hi! I'm a beginner QA Engineer.
+## Hi! I'm a QA Engineer. I like qualite
 
 ## My CV
 
