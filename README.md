@@ -13,7 +13,6 @@
 ![C#](https://img.shields.io/badge/C%23-090909?style=plastic&logo=c-sharp&logoColor=#239120)
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=plastic&logo=MySQL&logoColor=00618a)
 ![DevTools](https://img.shields.io/badge/-DEVTOOLS-090909?style=plastic&logo=googlechrome&logoColor=2674f2)
-![Charles](https://img.shields.io/badge/-DEVTOOLS-090909?style=plastic&logo=googlechrome&logoColor=2674f2)
 ![Miro](https://img.shields.io/badge/Miro-090909?style=plastic&logo=Miro&logoColor=050038)
 ![Charles_proxy](https://img.shields.io/badge/Charles%20proxy-090909?style=plastic&logo=charlesproxy&logoColor=#7D929E)
 ![Fiddler](https://img.shields.io/badge/Fiddler-090909?style=plastic&logo=fiddler&logoColor=#7D929E)
