@@ -31,5 +31,5 @@
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=telegram&logoColor=#FF9A0)](https://t.me/didisik)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-090909?style=plastic&logo=LinkedIn&logoColor=0073b1)](https://www.linkedin.com/in/didisik/)
-[![Mail](https://img.shields.io/badge/Gmail-090909?style=plastic&logo=gmail&logoColor=#EA4335)](shibaevdmitry.qa@gmail.com)
+![Mail](https://img.shields.io/badge/Gmail-shibaevdmitry.qa@gmail.com-090909?style=plastic&logo=gmail&logoColor=#EA4335)
 
