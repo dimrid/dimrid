@@ -1,10 +1,11 @@
 ![Maid_Icon](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.v2.png)
 
-## Hi! I'm a QA Engineer with practical experience in testing. I enjoy quality control in all its manifestations, as it helps to create great and user-friendly products. Mastering automation to help the team improve and speed up the testing process. 
-
-## I'm also developing an indie game on Unity, where I'm drawing sprites, implementing mechanics in C#, and creating the level design. If you're interested, you can follow my progress on my Git repository.
+## Hi! I'm a QA Engineer with practical experience in testing. 
+### I enjoy quality control in all its manifestations, as it helps to create great and user-friendly products. Mastering automation to help the team improve and speed up the testing process. 
+### I'm also developing an indie game on Unity, where I'm drawing sprites, implementing mechanics in C#, and creating the level design. If you're interested, you can follow my progress on my Git repository.
 
 ## My CV
+### [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
 
 ### Languages and Tools 
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=plastic&logo=jira&logoColor=0052CC)
@@ -27,3 +28,5 @@
 ### Testing Documentation
 
 ### Follow Me
+[![Telegram](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/didisik)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/didisik/)
