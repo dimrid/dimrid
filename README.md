@@ -24,7 +24,7 @@
 
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-090909?style=plastic&logo=adobe%20illustrator&logoColor=#FF9A00)
 ![Unity](https://img.shields.io/badge/Unity-090909?style=plastic&logo=unity&logoColor=FFFFFF)
-![Aseprite](https://img.shields.io/badge/Aseprite-090909?style=plastic&logo=aseprite&logoColor=#7D929E)
+![Aseprite](https://img.shields.io/badge/Aseprite-090909?style=plastic&logo=aseprite&logoColor=FFFFFF)
 ### Testing Documentation
 
 ### Follow Me
