@@ -1,8 +1,8 @@
 ![Maid_Icon](https://github.com/dimrid/dimrid/blob/master/Assets/logoHeader.v2.png)
 
 ## Hi! I'm a QA Engineer with practical experience in testing. 
-#### I enjoy quality control in all its manifestations, as it helps to create great and user-friendly products. Mastering automation to help the team improve and speed up the testing process. 
-#### I'm also developing an indie game on Unity, where I'm drawing sprites, implementing mechanics in C#, and creating the level design. If you're interested, you can follow my progress on my Git repository.
+### I enjoy quality control in all its manifestations, as it helps to create great and user-friendly products. Mastering automation to help the team improve and speed up the testing process. 
+### I'm also developing an indie game on Unity, where I'm drawing sprites, implementing mechanics in C#, and creating the level design. If you're interested, you can follow my progress on my Git repository.
 
 ## My CV
 ### [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
