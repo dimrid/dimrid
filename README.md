@@ -27,7 +27,11 @@
 ![Aseprite](https://img.shields.io/badge/Aseprite-090909?style=plastic&logo=aseprite&logoColor=FFFFFF)
 ### Testing Documentation
 
+- [Checklists (soon)](https://github.com/dimrid)
 - [Test-Cases](https://github.com/dimrid/aliexpressTestCases)
+- [Test-Suites and Test-Cases (soon)](https://github.com/dimrid)
+- [Bug-Reports (soon)](https://github.com/dimrid)
+- [Postman Collections (soon)](https://github.com/dimrid)
 
 ### You can reach me
 [![Telegram](https://img.shields.io/badge/Telegram-090909?style=plastic&logo=telegram&logoColor=#FF9A0)](https://t.me/didisik)
