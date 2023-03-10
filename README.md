@@ -5,7 +5,7 @@
 ### I'm also developing an indie game on Unity, where I'm drawing sprites, implementing mechanics in C#, and creating the level design. If you're interested, you can follow my progress on my Git repository.
 
 ## My CV
-### [Link to my CV](https://drive.google.com/file/d/1HaeXlUL-Wttj7Vw5niHmE1ggbuYMVVBs/view?usp=sharing/)
+### [Link to my CV](https://drive.google.com/file/d/109b3ZuN89Un5QiJ5h37jXeF-gQKVCMS1/view?usp=share_link)
 
 ### Languages and Tools 
 ![Jira](https://img.shields.io/badge/-JIRA-090909?style=plastic&logo=jira&logoColor=0052CC)
