@@ -30,7 +30,7 @@
 - [Checklists (soon)](https://github.com/dimrid)
 - [Test-Cases](https://github.com/dimrid/aliexpressTestCases)
 - [Test-Suites and Test-Cases (soon)](https://github.com/dimrid)
-- [Bug-Reports (soon)](https://github.com/dimrid)
+- [Bug Reporting in Jira](https://docs.google.com/spreadsheets/d/16Q6Ss46BFcHF3gPTZV4LJC9DOlbVFjdXEIBgfZBkzLM/edit#gid=0)
 - [Postman Collections (soon)](https://github.com/dimrid)
 
 ### You can reach me
