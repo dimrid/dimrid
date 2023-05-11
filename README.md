@@ -29,7 +29,7 @@
 
 - [Checklists (soon)](https://github.com/dimrid)
 - [Test-Cases](https://github.com/dimrid/aliexpressTestCases)
-- [App testing](https://didishic.notion.site/GROALL-b0b975d7de704caaabace45563957b2e)
+- [App testing(some project)](https://didishic.notion.site/GROALL-b0b975d7de704caaabace45563957b2e)
 - [Bug Reporting in Jira](https://docs.google.com/spreadsheets/d/16Q6Ss46BFcHF3gPTZV4LJC9DOlbVFjdXEIBgfZBkzLM/edit#gid=0)
 - [Postman Collections (soon)](https://github.com/dimrid)
 
